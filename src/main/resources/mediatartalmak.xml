@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<media>
+    <media>
+        <azonosito>alma</azonosito>
+        <kreator>Beton.Hofi</kreator>
+        <name>COMIC SINS</name>
+        <ev>2021</ev>
+        <tipus>AUDIO</tipus>
+    </media>
+    <media>
+        <azonosito>3523</azonosito>
+        <kreator>Frank Herbert</kreator>
+        <name>Dűne sorozat</name>
+        <ev>1965</ev>
+        <tipus>VISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>1992</azonosito>
+        <kreator>Philip K. Dick</kreator>
+        <name>Álmodnak-e az androidok elektronikus bárányokkal?</name>
+        <ev>1968</ev>
+        <tipus>VISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>2019</azonosito>
+        <kreator>Ridley Scott</kreator>
+        <name>Blade Runner</name>
+        <ev>1982</ev>
+        <tipus>AUDIOVISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>2049</azonosito>
+        <kreator>Denis Villeneuve</kreator>
+        <name>Blade Runner 2049</name>
+        <ev>2017</ev>
+        <tipus>AUDIOVISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>szija</azonosito>
+        <kreator>Antal Nimród</kreator>
+        <name>Kontroll</name>
+        <ev>2003</ev>
+        <tipus>AUDIOVISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>akc</azonosito>
+        <kreator>Vellinger Mihály</kreator>
+        <name>Holdvilág Club Hotel n' Casino</name>
+        <ev>2022</ev>
+        <tipus>AUDIO</tipus>
+    </media>
+    <media>
+        <azonosito>sello</azonosito>
+        <kreator>Robert Eggers</kreator>
+        <name>A világítótorony</name>
+        <ev>2019</ev>
+        <tipus>AUDIOVISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>512</azonosito>
+        <kreator>Neal Stephenson</kreator>
+        <name>Snow Crash</name>
+        <ev>1992</ev>
+        <tipus>VISUAL</tipus>
+    </media>
+    <media>
+        <azonosito>maffia</azonosito>
+        <kreator>Francis Ford Coppola</kreator>
+        <name>A Keresztapa I. - III.</name>
+        <ev>1972 - 1990</ev>
+        <tipus>AUDIOVISUAL</tipus>
+    </media>
+</media>
