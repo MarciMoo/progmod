@@ -70,4 +70,11 @@
         <ev>1972 - 1990</ev>
         <tipus>AUDIOVISUAL</tipus>
     </media>
+    <media>
+        <azonosito>abcd</azonosito>
+        <kreator>Mary Harron</kreator>
+        <name>American Psycho</name>
+        <ev>2000</ev>
+        <tipus>AUDIOVISUAL</tipus>
+    </media>
 </media>
